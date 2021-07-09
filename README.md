@@ -2,8 +2,6 @@
 Non-metric Multidimensional Scaling
 
 ## Files
-* `.ipynb_checkpoints`  
-  - contains ipynb checkpoints from initial commit. will be removed 
 * `figures`  
   - contains relevant plots/figures. to be expanded
 * `Notes.ipynb`  
@@ -16,7 +14,7 @@ Non-metric Multidimensional Scaling
 
 ## To-do
 ### 7/8
-1. try different regularization parameter (lambda) 
+1. try different regularization parameter (lambda) did i now
 2. try adding more ordered quadruples (closer to full order)
 3. try doing comparing the gram matrix (K and K_) directly instead of the decomposed positions (X and X_)
 4. try problem with different data  
