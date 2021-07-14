@@ -2,10 +2,11 @@
 Non-metric Multidimensional Scaling
 
 ## To-do
-### 7/8 
+### 7/14
 4. try problem with different data  
   i) more interesting generated data (s fold, swiss roll, etc)  
-  ii) simple real world data
+  compare and contrast results
+5. read up ADMM
 
 ## Files
 * `figures`  
