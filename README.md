@@ -9,15 +9,22 @@ Non-metric Multidimensional Scaling
 5. read up ADMM
 
 ## Files
+* `data`
+  - contains datafiles used for testing 
+* `examples`
+  - contains example code from references  
+      + cvxpy tutorial  
+      + sklearn  
+      + ADMM example source code  
 * `figures`  
   - contains relevant plots/figures. to be expanded
+* `utils`
+  - contains scripts used for generating data, etc.
 * `Notes.ipynb`  
   - latex write-ups of governing mathematical expressions
   - small snippets of code for testing 
 * `cvxpy.ipynb`  
   - code for solving problem using cvxpy. draft version
-* `cvxpy_examples.ipynb`
-  - examples from cvxpy.org to help understand package syntax
   
 ## Setup
 #### Get a copy of this repository  
