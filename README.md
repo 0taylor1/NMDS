@@ -1,12 +1,10 @@
 # NMDS
 Non-metric Multidimensional Scaling
 
-## To-do
-### 7/14
-4. try problem with different data  
-  i) more interesting generated data (s fold, swiss roll, etc)  
-  compare and contrast results
-5. read up ADMM
+## To-do 7/21
+* clean up code   
+* more test problems  
+* implement in matlab?   
 
 ## Files
 * `data`
@@ -24,7 +22,7 @@ Non-metric Multidimensional Scaling
   - latex write-ups of governing mathematical expressions
   - small snippets of code for testing 
 * `cvxpy.ipynb`  
-  - code for solving problem using cvxpy. draft version
+  - code for solving problem using cvxpy. draft
   
 ## Setup
 #### Get a copy of this repository  
