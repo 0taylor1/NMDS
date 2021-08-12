@@ -1,5 +1,6 @@
 # NMDS
 Non-metric Multidimensional Scaling
+![SURP2021 Poster](poster.pdf)
 
 ## To-do 7/21
 * clean up code   
